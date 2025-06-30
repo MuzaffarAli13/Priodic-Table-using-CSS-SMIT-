@@ -30,6 +30,10 @@ td{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
+td:hover{
+    border-radius: 6px;
+    cursor: pointer;
+}
 #pink{
     background-color: rgb(233, 110, 177);
 }
